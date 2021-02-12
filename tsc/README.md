@@ -1,4 +1,4 @@
-# TSC Materials for [PROJECT NAME]
+# TSC Materials for SOGNO
 
 This directory contains the meeting notes, process documentations, and other materials related to this project.
 
@@ -7,11 +7,11 @@ This directory contains the meeting notes, process documentations, and other mat
 This is a checklist for TSC's to review as part of the intake process. The TSC should review this entire list during the kickoff meeting. For anything outstanding, create an [issue](../issues) to track and link to it in the list
 
 - Codebase
-  - [ ] Project license identified and exists in root directory of all repos ( named LICENSE )
-  - [ ] Code scan completed and any recommendations remedyed.
+  - [x] Project license identified and exists in root directory of all repos ( named LICENSE )
+  - [x] Code scan completed and any recommendations remedyed.
 - TSC Record Keeping
-  - [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
-  - [ ] Copy this checklist to the above location for tracking
+  - [x] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
+  - [x] Copy this checklist to the above location for tracking
 - Existing Project Governance
   - [ ] README.md file exists ( template started at [README.md](../README.md) )
   - [ ] Any third-party components/dependencies included are listed along with thier licenses ( example template at [THIRD_PARTY.md](../THIRD_PARTY.md) )
@@ -21,18 +21,18 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ] Release methodology defined ( [RELEASE.md](../RELEASE.md) )
 - New Project Goverance
   - [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
-  - [ ] First TSC meeting held ( [agenda](meetings) )
+  - [x] First TSC meeting held ( [agenda](meetings) )
   - [ ] TSC meeting cadence set and added to project calendar (https://lists.lfenergy.org/calendar)
 - Infrastructure
-  - [ ] Source Control (Github, GitLab, something else ) and LFE Staff is an administrator.	
-    - [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
-  - [ ] Issue/feature tracker (JIRA, GitHub issues)	and LFE Staff is an administrator.
+  - [x] Source Control (Github, GitLab, something else ) and LFE Staff is an administrator.	
+    - [x] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
+  - [x] Issue/feature tracker (JIRA, GitHub issues)	and LFE Staff is an administrator.
   - Collaboration tools 
-    - [ ] Mailing lists - one of: 
-      - [ ] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
+    - [x] Mailing lists - one of: 
+      - [x] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
       - [ ] Move to groups.io ( create [service desk request] to setup/transfer )
     - [ ] Establish project calendar on groups.io ( refer to [tac guidelines])
-    - [ ] Slack or IRC ( create [service desk request] to setup Slack project channel )
+    - [x] Slack or IRC ( create [service desk request] to setup Slack project channel )
   - [ ] Website ( refer to [tac guidelines] )
   - [ ] CI/build environment	
  	- [ ] Add project to [Dev Anayltics](https://lfanalytics.io/projects/lf-energy) ( create [service desk request] to trigger )
