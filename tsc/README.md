@@ -13,13 +13,13 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [x] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
   - [x] Copy this checklist to the above location for tracking
 - Existing Project Governance
-  - [ ] README.md file exists ( template started at [README.md](../README.md) )
+  - [x] README.md file exists ( template started at [README.md](../README.md) )
   - [ ] Any third-party components/dependencies included are listed along with thier licenses ( example template at [THIRD_PARTY.md](../THIRD_PARTY.md) )
-  - [ ] Governamce defined, outlining community roles and how decsions are made ( starting point at [GOVERNANCE.md](../GOVERNANCE.md) if needed ).
-  - [ ] Contribution Policy defined ( CONTRIBUTING.md )
-  - [ ] Code of Conduct defined ( default is at [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) - if using a different code of conduct please contact [LFE Staff](mailto:operations@lfenergy.org) ).
+  - [x] Governance defined, outlining community roles and how decsions are made ( starting point at [GOVERNANCE.md](../GOVERNANCE.md) if needed ).
+  - [x] Contribution Policy defined ( CONTRIBUTING.md )
+  - [x] Code of Conduct defined ( default is at [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) - if using a different code of conduct please contact [LFE Staff](mailto:operations@lfenergy.org) ).
   - [ ] Release methodology defined ( [RELEASE.md](../RELEASE.md) )
-- New Project Goverance
+- New Project Governance
   - [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
   - [x] First TSC meeting held ( [agenda](meetings) )
   - [ ] TSC meeting cadence set and added to project calendar (https://lists.lfenergy.org/calendar)
@@ -33,22 +33,22 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
       - [ ] Move to groups.io ( create [service desk request] to setup/transfer )
     - [ ] Establish project calendar on groups.io ( refer to [tac guidelines])
     - [x] Slack or IRC ( create [service desk request] to setup Slack project channel )
-  - [ ] Website ( refer to [tac guidelines] )
+  - [x] Website ( refer to [tac guidelines] )
   - [ ] CI/build environment	
  	- [ ] Add project to [Dev Anayltics](https://lfanalytics.io/projects/lf-energy) ( create [service desk request] to trigger )
 - Project assets
   - [ ] Domain name	( create [service desk request] to setup/transfer )
 	- [ ] Social media accounts	( create [service desk request] to setup/transfer )
-	- [ ] Logo(s)	( create [service desk request] to create]; will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
+	- [x] Logo(s)	( create [service desk request] to create]; will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
 	- [ ] Trademarks/mark ownership rights ( complete [LF Projects - Form of Trademark and Account Assignment](lf_projects_trademark_assignment.md) )
 - Outreach
   - [ ] New project annoucement done ( create [service desk request] to trigger )
   - [ ] Project added to LF Energy website and LF Energy landscape
 - Early Adoption requirements  
   - [ ] CII Badge achieved ( apply at https://bestpractices.coreinfrastructure.org/en )
-  - [ ] Elect TSC Chairperson
-  - [ ] Regular cadence of TSC meetings being held.
-  - [ ] Governance defined at [GOVERNANCE.md](../GOVERNANCE.md).
+  - [x] Elect TSC Chairperson
+  - [x] Regular cadence of TSC meetings being held.
+  - [x] Governance defined at [GOVERNANCE.md](../GOVERNANCE.md).
   - [ ] Used in production by 2 organizations ( identify in [ADOPTERS.csv](../ADOPTERS.csv) )
   - Growth plan
     - [ ] Growth plan created ( put in [growth-plan.md](growth-plan.md))
