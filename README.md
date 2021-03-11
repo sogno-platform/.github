@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/lf-energy/artwork/main/projects/sogno/horizontal/color/sogno-horizontal-color.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/lf-energy/artwork/main/projects/sogno/horizontal/color/sogno-horizontal-color.svg?sanitize=true" alt="SOGNO Logo" width="50%"/>
+</p>
 
 # SOGNO
 
