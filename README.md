@@ -1,7 +1,4 @@
-```gfm
-# insert project logo - replace the below logo location with the location of your logo
 ![](https://github.com/lf-energy/artwork/blob/master/projects/sogno/horizontal/color/sogno-horizontal-color.svg)
-```
 
 # SOGNO
 
