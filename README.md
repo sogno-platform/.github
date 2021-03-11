@@ -1,4 +1,4 @@
-![](https://github.com/lf-energy/artwork/blob/master/projects/sogno/horizontal/color/sogno-horizontal-color.svg)
+![](https://raw.githubusercontent.com/lf-energy/artwork/main/projects/sogno/horizontal/color/sogno-horizontal-color.svg)
 
 # SOGNO
 
