@@ -1,3 +1,6 @@
+[![MPL-2.0 License](https://img.shields.io/badge/license-MPL_2.0-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
+[![Actions Status](https://github.com/sogno-platform/tsc/actions/workflows/repolinter.yml/badge.svg)](https://github.com/sogno-platform/tsc/actions)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/lf-energy/artwork/main/projects/sogno/horizontal/color/sogno-horizontal-color.svg?sanitize=true" alt="SOGNO Logo" width="50%"/>
 </p>
