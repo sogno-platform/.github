@@ -35,3 +35,7 @@
 
 
 ## Other Notes & Information
+
+<p align="right">
+<img src="https://raw.githubusercontent.com/lf-energy/artwork/main/projects/sogno/horizontal/color/sogno-horizontal-color.svg?sanitize=true" alt="SOGNO Logo" width="40%"/>
+</p>
