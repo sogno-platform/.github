@@ -13,7 +13,8 @@ The project Service-based Open-source Grid automation platform for Network Opera
 
 You can connect with the community in a variety of ways...
 
-- [LINK TO MAILING LIST](https://lists.lfenergy.org/g/sogno-discussion)
+- [main mailing list](https://lists.lfenergy.org/g/sogno-tsc)
+- [open discussion mailing list](https://lists.lfenergy.org/g/sogno-discussion)
 - [#sogno channel on LF Energy Slack](https://slack.lfenergy.org)
 
 ## Contributing

@@ -1,0 +1,1 @@
+An overview of the SOGNO components and links to the repositories can be found in the [documentation](https://sogno-platform.github.io/docs/overview/). Releases will be managed in the corresponding repositories.

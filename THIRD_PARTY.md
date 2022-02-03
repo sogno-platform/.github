@@ -1,1 +1,1 @@
-_Use this file to list out any third-party dependencies used by this project. You may choose to point to a Gemfile or other language specific packaging file for details._
+An overview of the SOGNO components and links to the repositories can be found in the [documentation](https://sogno-platform.github.io/docs/overview/). Third-party dependencies will be declared in the corresponding repositories.
