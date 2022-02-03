@@ -1,5 +1,3 @@
-_Template - update with Adopted Date when TSC approves and send to operations@lfenergy.org to file_
-
 # Technical Charter (the "Charter") for SOGNO a Series of LF Projects, LLC
 
 **Adopted 08-03-2021**
