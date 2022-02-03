@@ -7,7 +7,7 @@
 
 # SOGNO
 
-The project Service-based Open-source Grid automation platform for Network Operation of the future (SOGNO) is creating plug-and-play, cloud-native, micro-services to implement our next generation of data-driven monitoring and control systems. It will simplify the life of distribution utilities by enabling them to optimize their network operations through open source to deliver cost-effectively, and seamless, secure power supply for their customers. SOGNO introduces the idea of grid automation as a modular system in which components can be added through time.
+The LF Energy project Service-based Open-source Grid automation platform for Network Operation of the future (SOGNO) is creating plug-and-play, cloud-native, micro-services to implement our next generation of data-driven monitoring and control systems. It will simplify the life of distribution utilities by enabling them to optimize their network operations through open source to deliver cost-effectively, and seamless, secure power supply for their customers. SOGNO introduces the idea of grid automation as a modular system in which components can be added through time.
 
 ## Discussion
 
