@@ -11,4 +11,5 @@ The LF Energy project Service-based Open-source Grid automation platform for Net
 - [main mailing list](https://lists.lfenergy.org/g/sogno-tsc)
 - [open discussion mailing list](https://lists.lfenergy.org/g/sogno-discussion)
 - [#sogno channel on LF Energy Slack](https://slack.lfenergy.org)
- - development is tracked on the [project boards](https://github.com/orgs/sogno-platform/projects)
+- [project boards](https://github.com/orgs/sogno-platform/projects) to track development tasks
+- [SOGNO TSC news in LFE wiki](https://wiki.lfenergy.org/display/SOG/SOGNO+TSC)
