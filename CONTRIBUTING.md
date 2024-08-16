@@ -38,7 +38,10 @@ Each contribution includes:
 * A [Developer Certificate of Origin signoff].
 * Submitted to the project as a pull request.
 
-### Python
+### Formating
+Depending on the programming language different code style are to be followed. As the different services are handled by mostly independent groups additional restrictions may apply as indicated in the specific repository.
+
+#### Python
 
 The project uses the PEP 8 Style Guide for Python Code. For all details about the various conventions please refer to:
 
@@ -48,9 +51,14 @@ Tip:
 Use [black](https://github.com/psf/black) to automatically format your Python code to conform to the PEP 8 style guide.
 Use [flake8](https://github.com/PyCQA/flake8) to check the style and quality of your python code.
 
-### C++
+#### C++
 [Clang](https://clang.llvm.org/docs/ClangFormat.html) is used.
 
+### Versioning
+All SOGNO components use [Semantic Versioning](https://semver.org/). Versions are only released from the main branch and are managed by the core developers of each package. 
+
+
+### Licensing
 SOGNO components are licensed under the Apache2 or MPL2 license. Contributions should abide by the license used in the respective component. New components should be licensed under the Apache2 license.
 
 Project committers will review the contribution in a timely manner, and advise of any changes needed to merge the request.
